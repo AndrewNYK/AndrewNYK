@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk.gif" width="100"/>
+  ![](penguin coding.gif)
 </div>
 
 <!--
