@@ -45,8 +45,8 @@
 
 <div>
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndrewNYK" alt="GitHub Streak" height="200px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNYK&layout=compact" alt="Github Top languages" height="200px">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndrewNYK" alt="GitHub Streak" height="150px" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNYK&layout=compact" alt="Github Top languages" height="150px">
   </p>
 </div>
 
